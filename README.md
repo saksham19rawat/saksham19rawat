@@ -1,14 +1,12 @@
 
 ### Hello, I'm Saksham Rawat :)
+I'm an Electrical Engineering undergrad who's way too into digital design, control systems, and hardware-level-development. Most of my free time is spent pretending I know what I'm doing with anything.
 
-I'm an Electrical Engineering undergrad with a strong interest in digital design, control systems, and hardware-level development. I enjoy building projects in Verilog and exploring how things work at the circuit and system level.
+Right now, I'm trying to build a RISC-V processor from scratch.
 
-Currently, I’m working on developing a RISC-V processor from scratch and diving deeper into FPGA design.
-
-When I'm not working (or procrasstinating) you’ll probably find me scrolling reddit, watching wwe or listening to music.
+When I'm not buried in working/studying (or procrastinating), you'll probably catch me scrolling Reddit, watching WWE or any sports for that matter, or vibing to random music like it's a full-time job.
 
 I believe in learning by doing — and this profile is where I share that journey.
-
 
 🎓 Final-year Electrical Engineering student  
 💻 Learning Verilog 
@@ -28,4 +26,5 @@ I believe in learning by doing — and this profile is where I share that journe
 
 
 [![HDLBits Profile](https://img.shields.io/badge/HDLBits-View%20My%20Work-blue?style=for-the-badge)](https://hdlbits.01xz.net/wiki/Special:VlgStats/Me)
+
 
