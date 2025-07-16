@@ -22,9 +22,10 @@ I believe in learning by doing — and this profile is where I share that journe
 
 ### 🌐 Connect with me
 
-<a href="mailto:sakshamrawatb26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+[![Email](https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg)](sakshamrawatb26@gmail.com)
 
 [![HDLBits Profile](https://img.shields.io/badge/HDLBits-View%20My%20Work-blue?style=for-the-badge)](https://hdlbits.01xz.net/wiki/Special:VlgStats/Me)
+
 
 
