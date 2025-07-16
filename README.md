@@ -8,7 +8,7 @@ When I'm not buried in working/studying (or procrastinating), you'll probably ca
 
 I believe in learning by doing — and this profile is where I share that journey.
 
-🎓 Final-year Electrical Engineering student  
+🎓 3rd-year Electrical Engineering student  
 💻 Learning Verilog 
 ---
 🛠️ **Tech Stack**  
